@@ -35,6 +35,7 @@ In addition, process data can then be used for visual analytics.
 ---
 
 ## Conceptual architecture
+![image](https://github.com/TechWithNate/Yahoo-finances-data-event/assets/81887567/f8dd1f32-5ed4-4513-8ed9-79895f80ba7c)
 
 
 ---
