@@ -74,7 +74,7 @@ Data for this project was generated from yahoo finances official website using t
 ## Setup
 To set up this project, clone the repository
 ```bash
-
+git clone https://github.com/TechWithNate/Yahoo-finances-data-event.git
 ```
 
 Install all python requirements requirements 
