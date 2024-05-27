@@ -7,8 +7,8 @@ A data engineering training project to build an end-to-end pipline for a real-ti
   <a href="#technologies">Technologies</a> •
   <a href="#about-the-project">About the project</a> •
   <a href="#conceptual-architecture">Conceptual architecture</a> •
-  <a href="#data-source">Data source</a> •
-  <a href="#📊-looker-report">Looker report</a> •
+  <a href="#data-source">Conceptual Report on the Technologies used</a> •
+  <a href="#📊-looker-report">Data source</a> •
   <a href="#🛠️-setup">Setup</a> 
 </p>
 
@@ -66,3 +66,7 @@ Amazon RDS (Relational Database Service) is a managed relational database servic
 ***Conclusion***
 
 Amazon RDS offers a robust and reliable managed database service that simplifies many aspects of database management, making it an attractive choice for data pipelines that require relational database capabilities. Its high availability, security features, and ease of integration with other AWS services are significant advantages. However, its costs, limited customization options, and certain scaling limitations may pose challenges for some use cases.
+
+---
+## Data Source
+Data for this project was generated from yahoo finances official website using this [link](https://finance.yahoo.com/quote/BTC-USD/history). This produces a historic data of crypto currencies that can be streamed or generated in batches.
