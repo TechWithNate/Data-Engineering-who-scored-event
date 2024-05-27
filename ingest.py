@@ -1,7 +1,7 @@
 import boto3
 
-ASW_ACCESS_KEY = "AKIA6AZGBOISXXHI24F5"
-AWS_SECRETE_KEY = "7sHHWlLotU1lSBiYRBkLiIr6gSlFb3oBmSexfvua"
+ASW_ACCESS_KEY = "your_key"
+AWS_SECRETE_KEY = "your_key"
 bucket_name = 'yahoo-finance'
 AWS_REGION = "us-east-1"
 
