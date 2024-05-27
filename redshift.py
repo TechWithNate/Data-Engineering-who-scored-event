@@ -4,8 +4,8 @@ import os
 import psycopg2
 import tempfile
 
-ASW_ACCESS_KEY = "AKIA6AZGBOISXXHI24F5"
-AWS_SECRETE_KEY = "7sHHWlLotU1lSBiYRBkLiIr6gSlFb3oBmSexfvua"
+ASW_ACCESS_KEY = "yourkey"
+AWS_SECRETE_KEY = "yourkey"
 bucket_name = 'yahoo-finance'
 AWS_REGION = "us-east-1"
 
